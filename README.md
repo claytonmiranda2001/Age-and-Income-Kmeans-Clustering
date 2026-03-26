@@ -48,6 +48,7 @@ All evaluation metrics indicate a well-performing model with good separation and
 Additionally, statistical analysis highlights Income as the most relevant variable for distinguishing between clusters.
 
 #Technologies Used
+
 Python
 Pandas
 NumPy
