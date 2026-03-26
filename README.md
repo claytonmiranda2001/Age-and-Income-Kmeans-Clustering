@@ -1,4 +1,5 @@
 #K-Means Clustering: Age & Income Segmentation
+
 ##Project Objective
 
 The objective of this project is to perform an exploratory data analysis by creating clusters based on the variables Age and Income using the K-Means algorithm.
