@@ -83,8 +83,8 @@ Additionally, statistical analysis highlights Income as the most relevant variab
 
 ## Technologies Used
 
-- 'Pandas'  
-- 'NumPy'  
-- 'Scikit-learn'  
-- 'Matplotlib'  
-- 'Seaborn'  
+- `pandas`
+- `numpy`
+- `seaborn`  
+- `matplotlib`  
+- `scikit-learn`  
